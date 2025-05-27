@@ -212,3 +212,4 @@ Teaching
 Service and leadership
 ======
 * 20+ IT相关项目
+* 承接SAP-BASIS、DBMS、Linux和备份容灾等项目规划、实施和运维任务。
