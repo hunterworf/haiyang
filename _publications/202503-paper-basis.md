@@ -6,7 +6,7 @@ permalink: /publication/202503-paper-basis
 excerpt: '给客户SAP运维团队内训知识大纲.'
 date: 2025-03-31
 venue: 'ZhenJiang'
-paperurl: 'http://hunterworf.github.io/files/SAP-BASIS-tree.html'
+paperurl: '/files/SAP-BASIS-tree.html'
 citation: '给客户SAP运维团队内训知识大纲'
 ---
 
