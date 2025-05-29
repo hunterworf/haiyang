@@ -10,7 +10,8 @@ redirect_from:
 
 承接合作
 ======
-承接SAP-BASIS、DBMS、Linux和备份容灾等项目规划、实施和运维任务。
+1. 承接SAP-BASIS、DBMS、Linux和备份容灾等项目规划、实施和运维任务。
+2. 承接SAP-BASIS、SAP-HANA、Linux部门培训业务。
 微信：16891301
 
 
