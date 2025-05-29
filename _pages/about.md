@@ -22,11 +22,11 @@ PM-Skills | 项目管理技能
 SAP BASIS Skills | SAP BASIS技能
 ======
 1. ​系统全生命周期管理​
-> ​规划与部署​：
-> - 技术选型​：主导跨平台（SUN小机、Exadata、VMware虚拟化、Azure云）的SAP系统架构设计，完成20+系统部署（ECC/CRM/SRM/BW/HANA/S4HANA/PO）。
-> - ​安装与升级​：精通SAP组件安装（如PO、Fiori、Solution Manager）、版本升级（如ECC EHP5→EHP8、HANA 1.0→2.0）、补丁应用（Kernel/SP/ST-PI）。
-> - ​案例​：某药业ERP升级（OS+DB+SAP三层次升级），实现月结效率提升70%。
->
+​规划与部署​：
+- 技术选型​：主导跨平台（SUN小机、Exadata、VMware虚拟化、Azure云）的SAP系统架构设计，完成20+系统部署（ECC/CRM/SRM/BW/HANA/S4HANA/PO）。
+- ​安装与升级​：精通SAP组件安装（如PO、Fiori、Solution Manager）、版本升级（如ECC EHP5→EHP8、HANA 1.0→2.0）、补丁应用（Kernel/SP/ST-PI）。
+- ​案例​：某药业ERP升级（OS+DB+SAP三层次升级），实现月结效率提升70%。
+
 > ​迁移与容灾​：
 > - ​跨平台迁移​：完成SAP系统从物理机到虚拟机（如HP小机→VMware）、本地到云（Azure/Aliyun）的迁移，采用SWPM/SUM工具及异构数据库迁移技术。
 > - ​高可用设计​：部署HANA-SR（系统复制）、Linux HA集群，优化RTO/RPO至分钟级（如GIMI HANA-SR演练，RTO<30分钟）。
