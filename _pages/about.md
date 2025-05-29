@@ -31,13 +31,13 @@ SAP BASIS Skills | SAP BASIS技能
   - ​高可用设计​：部署HANA-SR（系统复制）、Linux HA集群，优化RTO/RPO至分钟级（如GIMI HANA-SR演练，RTO<30分钟）
   - ​案例​：TSL-SAP迁移至Exadata，零故障切换，存储性能提升40%
 2. 性能调优与运维监控​
-  - 性能优化​：
-    - 数据库级​：HANA内存优化（表分区）、Oracle、MS-SQL执行计划分析、索引重构（如YZJ数据库压缩节省70%存储）
-    - ​系统级​：ABAP程序代码审查（ST12/ST05跟踪）、RFC/Batch Job并发控制、SAP内核参数调整（RFC/ICM/ENQUEUE）
-    -  ​案例​：GIMI-HANA性能调优。
-  - 监控体系​：
-    - ​工具集成​：搭建Prometheus+Grafana可视化监控平台，实时预警SAP/BW/HANA关键指标（CPU/内存/队列）
-    - ​自动化运维​：通过脚本（Shell/Python）实现日志自动清理、备份状态检查、批处理作业调度。
+- 性能优化​：
+  - 数据库级​：HANA内存优化（表分区）、Oracle、MS-SQL执行计划分析、索引重构（如YZJ数据库压缩节省70%存储）
+  - ​系统级​：ABAP程序代码审查（ST12/ST05跟踪）、RFC/Batch Job并发控制、SAP内核参数调整（RFC/ICM/ENQUEUE）
+  -  ​案例​：GIMI-HANA性能调优。
+- 监控体系​：
+  - ​工具集成​：搭建Prometheus+Grafana可视化监控平台，实时预警SAP/BW/HANA关键指标（CPU/内存/队列）
+  - ​自动化运维​：通过脚本（Shell/Python）实现日志自动清理、备份状态检查、批处理作业调度。
 3. 权限管理与安全合规​
 > ​权限设计​：
 > - 复杂权限模型搭建（角色派生/复合角色）、SUIM审计工具使用，完成扬子江药业ERP权限流程标准化，减少越权风险90%。
