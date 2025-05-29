@@ -13,7 +13,7 @@ title                    : "HaiYang Li / Personal WebSites"
 title_separator          : "-"
 name                     : &name "HaiYang Li"
 description              : &description "承接SAP-BASIS、DBMS、Linux和备份容灾等项目规划、实施和运维任务"
-url                      : https://hunterworf.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://hunterworf.github.io/haiyang # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
